@@ -1,0 +1,56 @@
+body {
+  background-color: hsl(265, 58%, 94%);
+  text-align: center;
+}
+
+main {
+  width: 500px;
+  margin: 0 auto;
+  background-color: hsl(271, 94%, 80%);
+  text-align: center;
+  border-radius: 8px;
+}
+
+section {
+  border: 1px solid black;
+}
+
+h1 {
+  font-family: "Oswald", sans-serif;
+  color: blueviolet;
+  font-size: 40px;
+}
+
+img {
+  width: 150px;
+  height: 100px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 65px;
+}
+
+footer {
+  /* border: 1px solid red; */
+  padding-top: 30px;
+  padding-bottom: 40px;
+  background-color: hsl(265, 58%, 94%);
+}
+
+a.button {
+  padding: 16px;
+  /* margin: 32px; */
+  background-color: rgb(223, 213, 124);
+  border-radius: 6px;
+  text-decoration: none;
+  color: black;
+}
+
+a.highlight {
+  background-color: yellow;
+}
+
+p.copyright {
+  margin-bottom: 0px;
+  margin-top: 20px;
+}
